@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+beautifulsoup4
+requests
+urllib3
+urlextract
+DateTime
+###### Requirements with Version Specifiers ######

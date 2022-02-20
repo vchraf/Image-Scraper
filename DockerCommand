@@ -1,0 +1,7 @@
+#buld a doker container :
+docker build -t [IMAGE] .
+#run
+docker run -ti [IMAGE]
+docker images
+docker ps -a
+docker run -ti -v [OUTPUT_DIRECTORY_PATH] :/scraper/src [IMAGE]
